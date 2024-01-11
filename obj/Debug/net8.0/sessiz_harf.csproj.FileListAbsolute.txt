@@ -1,0 +1,14 @@
+C:\Users\Vahdet\Documents\Pratikler\sessiz_harf\bin\Debug\net8.0\sessiz_harf.exe
+C:\Users\Vahdet\Documents\Pratikler\sessiz_harf\bin\Debug\net8.0\sessiz_harf.deps.json
+C:\Users\Vahdet\Documents\Pratikler\sessiz_harf\bin\Debug\net8.0\sessiz_harf.runtimeconfig.json
+C:\Users\Vahdet\Documents\Pratikler\sessiz_harf\bin\Debug\net8.0\sessiz_harf.dll
+C:\Users\Vahdet\Documents\Pratikler\sessiz_harf\bin\Debug\net8.0\sessiz_harf.pdb
+C:\Users\Vahdet\Documents\Pratikler\sessiz_harf\obj\Debug\net8.0\sessiz_harf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vahdet\Documents\Pratikler\sessiz_harf\obj\Debug\net8.0\sessiz_harf.AssemblyInfoInputs.cache
+C:\Users\Vahdet\Documents\Pratikler\sessiz_harf\obj\Debug\net8.0\sessiz_harf.AssemblyInfo.cs
+C:\Users\Vahdet\Documents\Pratikler\sessiz_harf\obj\Debug\net8.0\sessiz_harf.csproj.CoreCompileInputs.cache
+C:\Users\Vahdet\Documents\Pratikler\sessiz_harf\obj\Debug\net8.0\sessiz_harf.dll
+C:\Users\Vahdet\Documents\Pratikler\sessiz_harf\obj\Debug\net8.0\refint\sessiz_harf.dll
+C:\Users\Vahdet\Documents\Pratikler\sessiz_harf\obj\Debug\net8.0\sessiz_harf.pdb
+C:\Users\Vahdet\Documents\Pratikler\sessiz_harf\obj\Debug\net8.0\sessiz_harf.genruntimeconfig.cache
+C:\Users\Vahdet\Documents\Pratikler\sessiz_harf\obj\Debug\net8.0\ref\sessiz_harf.dll

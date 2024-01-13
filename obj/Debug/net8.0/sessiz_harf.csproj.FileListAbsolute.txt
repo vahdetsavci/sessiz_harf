@@ -12,3 +12,4 @@ C:\Users\Vahdet\Documents\Pratikler\sessiz_harf\obj\Debug\net8.0\refint\sessiz_h
 C:\Users\Vahdet\Documents\Pratikler\sessiz_harf\obj\Debug\net8.0\sessiz_harf.pdb
 C:\Users\Vahdet\Documents\Pratikler\sessiz_harf\obj\Debug\net8.0\sessiz_harf.genruntimeconfig.cache
 C:\Users\Vahdet\Documents\Pratikler\sessiz_harf\obj\Debug\net8.0\ref\sessiz_harf.dll
+C:\Users\Vahdet\Documents\Pratikler\sessiz_harf\obj\Debug\net8.0\sessiz_harf.sourcelink.json
